@@ -1,4 +1,3 @@
-jndi-limitations
+JNDI Provider Study
 ================
 
-jndi-limitations
