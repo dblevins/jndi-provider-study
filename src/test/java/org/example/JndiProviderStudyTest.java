@@ -29,7 +29,7 @@ import java.util.Properties;
 
 import static junit.framework.Assert.assertEquals;
 
-public class JndiStudyTest {
+public class JndiProviderStudyTest {
 
     @Test
     public void jndiPropertiesFile() throws Exception {
